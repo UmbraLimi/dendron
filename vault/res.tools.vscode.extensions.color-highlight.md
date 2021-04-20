@@ -1,12 +1,12 @@
 ---
-id: 67b5ca6a-a268-4bd2-88c7-eb08a560cfe0
-title: Bracket Pair Colorizer
-desc: 'A customizable extension for colorizing matching brackets'
-updated: 1618778495361
-created: 1618773195905
+id: b2b8032c-814d-4da2-a018-df19ba28a5f1
+title: Color Highlight
+desc: 'A customizable extension for colorizing matching brackets '
+updated: 1618819691105
+created: 1618773275554
 ---
 
-# Bracket Pair Colorizer
+# Color Highlight
 
 > A customizable extension for colorizing matching brackets
 
