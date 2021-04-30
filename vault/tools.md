@@ -11,5 +11,5 @@ stub: false
 ## Menu of Tools
 
 - [[VS Code|tools.vscode]]
-- [[Dendron|res.tools.dendron]]
+- [[Dendron|tools.dendron]]
 

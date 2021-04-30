@@ -7,7 +7,7 @@ created: 1617445990322
 ---
 # Webclippers for Markdown
 
-- to get the URL use [[res.tools.chrome.extensions.copycat]]
+- to get the URL use [[tools.chrome.extensions.copycat]]
   choose **Copycat > Tablink -> Markdown**
 
 - to get entire webpage use [[chrome.extensions.markdownload]]
